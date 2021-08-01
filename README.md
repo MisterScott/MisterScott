@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MisterScott. 
-- 👀 I’m interested in ergo keyboards, CNC, IoT, embedded. 
+- 👀 I’m interested in ergonomics (mostly keyboards), CNC, IoT, embedded. 
 - 🌱 I’m currently learning Python (prefer C/C++/C# with stronger compile-time checks) and networking; working in Internet backbone equipment. 
 - 💞️ I’m looking to collaborate on CNC. 
 - 📫 How to reach me... 
